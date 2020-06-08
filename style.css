@@ -3,4 +3,6 @@
     background-color: #383e40;
     font-family: 'Bebas Neue', cursive;
     color: white;
+    box-sizing: border-box;
+    border-radius: 15px;
 }
